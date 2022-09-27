@@ -24,6 +24,7 @@ print(obtainMagnitude([3]))
 print(obtainMagnitude([1,-1]))
 print(obtainMagnitude([1,1,1,1]))
 
+
 print(obtainDotProduct([], []))
 print(obtainDotProduct([2,5,6], [3,7,8]))
 print(obtainDotProduct([1,-1,0], [-1,-1,5]))
